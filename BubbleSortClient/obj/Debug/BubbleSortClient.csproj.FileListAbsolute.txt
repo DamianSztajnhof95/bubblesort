@@ -1,0 +1,9 @@
+D:\Users\kocuras\source\repos\BubbleSortClient\bin\Debug\BubbleSortClient.exe.config
+D:\Users\kocuras\source\repos\BubbleSortClient\bin\Debug\BubbleSortClient.exe
+D:\Users\kocuras\source\repos\BubbleSortClient\bin\Debug\BubbleSortClient.pdb
+D:\Users\kocuras\source\repos\BubbleSortClient\obj\Debug\BubbleSortClient.csprojAssemblyReference.cache
+D:\Users\kocuras\source\repos\BubbleSortClient\obj\Debug\BubbleSortClient.Form1.resources
+D:\Users\kocuras\source\repos\BubbleSortClient\obj\Debug\BubbleSortClient.Properties.Resources.resources
+D:\Users\kocuras\source\repos\BubbleSortClient\obj\Debug\BubbleSortClient.csproj.GenerateResource.cache
+D:\Users\kocuras\source\repos\BubbleSortClient\obj\Debug\BubbleSortClient.exe
+D:\Users\kocuras\source\repos\BubbleSortClient\obj\Debug\BubbleSortClient.pdb
