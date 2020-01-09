@@ -7,3 +7,12 @@ D:\Users\kocuras\source\repos\BubbleSortClient\obj\Debug\BubbleSortClient.Proper
 D:\Users\kocuras\source\repos\BubbleSortClient\obj\Debug\BubbleSortClient.csproj.GenerateResource.cache
 D:\Users\kocuras\source\repos\BubbleSortClient\obj\Debug\BubbleSortClient.exe
 D:\Users\kocuras\source\repos\BubbleSortClient\obj\Debug\BubbleSortClient.pdb
+C:\Users\kocuras\Desktop\bubel\bubblesort-master\BubbleSortClient\bin\Debug\BubbleSortClient.exe.config
+C:\Users\kocuras\Desktop\bubel\bubblesort-master\BubbleSortClient\bin\Debug\BubbleSortClient.exe
+C:\Users\kocuras\Desktop\bubel\bubblesort-master\BubbleSortClient\bin\Debug\BubbleSortClient.pdb
+C:\Users\kocuras\Desktop\bubel\bubblesort-master\BubbleSortClient\obj\Debug\BubbleSortClient.csprojAssemblyReference.cache
+C:\Users\kocuras\Desktop\bubel\bubblesort-master\BubbleSortClient\obj\Debug\BubbleSortClient.Form1.resources
+C:\Users\kocuras\Desktop\bubel\bubblesort-master\BubbleSortClient\obj\Debug\BubbleSortClient.Properties.Resources.resources
+C:\Users\kocuras\Desktop\bubel\bubblesort-master\BubbleSortClient\obj\Debug\BubbleSortClient.csproj.GenerateResource.cache
+C:\Users\kocuras\Desktop\bubel\bubblesort-master\BubbleSortClient\obj\Debug\BubbleSortClient.exe
+C:\Users\kocuras\Desktop\bubel\bubblesort-master\BubbleSortClient\obj\Debug\BubbleSortClient.pdb

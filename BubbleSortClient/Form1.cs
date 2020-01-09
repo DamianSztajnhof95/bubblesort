@@ -31,7 +31,7 @@ namespace BubbleSortClient
             }
             else
             {
-                string url = "https://localhost:44394/api/Numbers/" + numberList.Text;
+                string url = "https://localhost:44350/api/Numbers/" + numberList.Text;
                 rClient.endPoint = url;
                 string strResponse = string.Empty;
                 strResponse = rClient.makeRequest();
